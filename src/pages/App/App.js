@@ -84,7 +84,7 @@ class App extends Component {
     // Update the NEW guesses array
     guessesCopy[currentGuessIdx] = guessCopy;
 
-    // Update state with the NEW guesses array
+    // Update state with the new guesses array
     this.setState({
         guesses: guessesCopy
     });
