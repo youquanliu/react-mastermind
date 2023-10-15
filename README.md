@@ -1,3 +1,3 @@
 # react-mastermind
 Mastermind SPA game built by React
-[https://reat-mastermind.herokuapp.com/]
+[https://react-mastermind-7b8bc58e61f3.herokuapp.com/]
