@@ -14,7 +14,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^5.0.1",
     "serve-favicon": "^2.5.0"
   },
   "scripts": {
@@ -39,5 +38,8 @@
     ]
   },
   "proxy": "http://localhost:3001",
-  "comment": "the above specifies where the host should send API calls to"
+  "comment": "the above specifies where the host should send API calls to",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
