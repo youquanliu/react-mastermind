@@ -3,7 +3,7 @@
 > Build an [Mastermind](https://react-mastermind-7b8bc58e61f3.herokuapp.com/) single page application ground up with React, Express
 
 ![Page One](public/images/mastermind.png?raw=true "First page of game")
-![Page Two](public/images/astermind2.png?raw=true "Setting page")
+![Page Two](public/images/mastermind2.png?raw=true "Setting page")
 
 ## Click to [play the page](https://react-mastermind-7b8bc58e61f3.herokuapp.com/)
 
@@ -28,7 +28,15 @@ Repeating Guesses: The codebreaker continues to make guesses based on the feedba
 
 
 #### Install Dependencies
+
 ```
 npm install
+
+```
+
+#### Run app locally
+
+```
+npm start
 
 ```
